@@ -1,0 +1,24 @@
+body { padding: .5em; }
+
+#roblox:before {
+    content: "";
+    display: block;
+    background: url("https://images.rbxcdn.com/23421382939a9f4ae8bbe60dbe2a3e7e.ico.gzip") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+    background-size: 20px 20px;
+}
+
+#discord:before {
+    content: "";
+    display: block;
+    background: url("https://discord.com//assets/847541504914fd33810e70a0ea73177e.ico") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+    background-size: 20px 20px;
+    background-color: #cccccc;
+}
